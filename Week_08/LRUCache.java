@@ -5,6 +5,7 @@ import java.util.Map;
  * @author : jiaokaiyao
  * @version V1.0
  * @Description: TODO LRU Cache
+ * 使用双链表+散列表实现
  * @date Date : 2020年10月19日 22:55
  */
 public class LRUCache {
